@@ -39,6 +39,8 @@ public class TiempodellegadaU {
         
         System.out.println("Llega en: " + htotal + " Horas " + mtotal + " Minutos y " + stotal + " Segundos");
         
+        System.out.println("Bienvenido");
+        
     }
     
 }
