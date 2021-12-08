@@ -41,6 +41,8 @@ public class TiempodellegadaU {
         
         System.out.println("Bienvenido");
         
+        System.out.println("Bienvenido 2");
+        
     }
     
 }
